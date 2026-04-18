@@ -4,15 +4,15 @@ Weather station created with ESP8266.
 
 ## Kit Contents
 
-- 1 × ESP8266
-- 1 × ESP8266-12E
-- 1 × DHT11
-- 1 × BMP180
-- 1 × BH1750FVI
-- 1 × OLED Display
-- 1 × USB Cable
-- 2 × Breadboards
-- 20 × Dupont Cables
+- 1 × ESP8266 — microcontrolador com Wi-Fi que controla todo o sistema
+- 1 × ESP8266-12E — módulo do ESP8266 com mais pinos e melhor desempenho
+- 1 × DHT11 — sensor de temperatura e umidade
+- 1 × BMP180 — sensor de pressão atmosférica
+- 1 × BH1750FVI — sensor de luminosidade (nível de luz)
+- 1 × OLED Display — tela para exibir dados (clima, hora, sensores)
+- 1 × USB Cable — usado para alimentação e upload do código
+- 2 × Breadboards — permitem montar o circuito sem solda
+- 20 × Dupont Cables — fios para conectar os componentes
 
 ## Image
 
